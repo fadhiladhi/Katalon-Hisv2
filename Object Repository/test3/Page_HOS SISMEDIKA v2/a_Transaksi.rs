@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>a_Transaksi</name>
    <tag></tag>
-   <elementGuidId>54e1ad8a-6734-487c-999e-1c44cfc497e0</elementGuidId>
+   <elementGuidId>fb30dfcd-6d16-401d-8c69-6e39853d5be1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='sub2']</value>
+         <value>//div[@id='cssmenu']/ul/li[17]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#sub2</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Login&quot;i]</value>
+         <value>internal:role=link[name=&quot;Transaksi&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,109 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>1cfb66cd-49a6-41be-bda8-e8f33c4099fb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>login100-form-btn</value>
-      <webElementGuid>f2524d1e-0c85-4171-9911-264ece51b7cd</webElementGuid>
+      <value>a</value>
+      <webElementGuid>0231ffc9-1010-4bab-9e60-7447acad6f00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>href</name>
       <type>Main</type>
-      <value>sub2</value>
-      <webElementGuid>6435f347-ef1e-496c-9840-b7c4b28b2386</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>fn_login()</value>
-      <webElementGuid>6017f57a-8ffc-4cea-b3e8-29f8747370d2</webElementGuid>
+      <value>#</value>
+      <webElementGuid>4094fc6f-f933-49f3-8951-2325e5d82386</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-								Login
-							</value>
-      <webElementGuid>824d3a34-ca8f-455a-9bcc-c991d9181873</webElementGuid>
+      <value>Transaksi</value>
+      <webElementGuid>a30403d1-8f02-46d6-9864-be8e8f1cb3cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sub2&quot;)</value>
-      <webElementGuid>4ab2a16a-d3e9-497b-a32b-a1940c662dcd</webElementGuid>
+      <value>/html[1]/body[1]/div[@id=&quot;cssmenu&quot;]/ul[1]/li[@class=&quot;has-sub&quot;]/a[1]</value>
+      <webElementGuid>0aaacea6-5c72-4180-8529-2626feb5bec5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='sub2']</value>
-      <webElementGuid>3bda29c0-c1f8-4eae-9131-f7744375dc55</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frm_login']/div[3]/div/button</value>
-      <webElementGuid>d7b3bc22-8b18-4761-847d-e975393286ae</webElementGuid>
+      <value>//div[@id='cssmenu']/ul/li[17]/a</value>
+      <webElementGuid>d30adf15-15cf-430b-af1b-cfee39fab91c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Transaksi')])[4]</value>
+      <webElementGuid>293c1575-41cf-4d7b-9871-0bef9e37a06a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/preceding::button[1]</value>
-      <webElementGuid>7f4b0514-6b3b-4fca-b594-95adc5cf24ce</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[272]</value>
+      <webElementGuid>cb0c0599-839c-4205-9042-cc16b576ae4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perhatian!'])[1]/preceding::button[1]</value>
-      <webElementGuid>0bf98adf-a358-4e71-874e-ef5c9611a16e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⇅'])[1]/preceding::a[273]</value>
+      <webElementGuid>6af7cd1c-4a71-4701-9bce-a2ade888ed0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>faab19f7-1253-4dea-8778-74d0c901bb1a</webElementGuid>
+      <value>(//a[contains(@href, '#')])[179]</value>
+      <webElementGuid>e4ec70dc-52d6-431b-acff-80f3b8f7c62e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>5e3efbca-9dd5-4693-a167-4fe31a767947</webElementGuid>
+      <value>//li[17]/a</value>
+      <webElementGuid>884ad4bf-a47f-4af5-a4df-479494597a4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'sub2' and (text() = '
-								Login
-							' or . = '
-								Login
-							')]</value>
-      <webElementGuid>4456bf53-954b-4e88-b6c7-b859abdf50da</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'Transaksi' or . = 'Transaksi')]</value>
+      <webElementGuid>44d22ade-fe1f-49eb-bfbe-1f2075324c73</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

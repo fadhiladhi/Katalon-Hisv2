@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Login__UserName</name>
+   <name>input_Cari Nama_cari_nama</name>
    <tag></tag>
-   <elementGuidId>f624f825-0a81-43d8-b0af-df873b59be59</elementGuidId>
+   <elementGuidId>51a46af1-315c-4e8d-ad9a-b3f2550ccb32</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='_UserName']</value>
+         <value>//input[@id='cari_nama']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#_UserName</value>
+         <value>#cari_nama</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[id=&quot;_UserName&quot;]</value>
+         <value>#cari_nama</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c0466ffa-b075-4b22-af84-e65e1ba000ac</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>input100</value>
-      <webElementGuid>398e2beb-b30a-46fc-91a6-ee85971b40bb</webElementGuid>
+      <webElementGuid>317da01c-f230-40cc-a71b-dc761b4f7ccf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,62 +37,70 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0c14d36a-2ed3-49fe-891a-4957afefab88</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>_UserName</value>
-      <webElementGuid>8581e2b4-6716-44b0-8b0f-4b7474a6f7dd</webElementGuid>
+      <webElementGuid>b7c20e29-e8f8-4470-9069-5a83ffd214b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>_UserName</value>
-      <webElementGuid>602df8c9-0367-495f-99fe-a902daed656e</webElementGuid>
+      <value>cari_nama</value>
+      <webElementGuid>143f82ca-7740-44f6-ab56-2047c8ce8ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>cari_nama</value>
+      <webElementGuid>e159670f-d409-47e7-b704-f01095f9a2da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>146cb5b3-97e6-413c-acee-5685f2711eeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;_UserName&quot;)</value>
-      <webElementGuid>da8e1139-d57b-451a-bf03-c04ae8a2ad47</webElementGuid>
+      <value>id(&quot;cari_nama&quot;)</value>
+      <webElementGuid>afb162ab-9e71-4066-83b6-f720e11e4814</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='_UserName']</value>
-      <webElementGuid>9f8e4527-b4b3-4951-b586-96f11312be20</webElementGuid>
+      <value>//input[@id='cari_nama']</value>
+      <webElementGuid>52868677-8cd0-4c30-a932-065d70a76437</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frm_login']/div/input</value>
-      <webElementGuid>6f915ab1-d62f-4773-8e1e-5682491e5b90</webElementGuid>
+      <value>//div[@id='_div_pencarian_mr']/input[2]</value>
+      <webElementGuid>bfedb4ab-f054-4141-a274-95a63a6d0512</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>b096042b-51bf-4b31-83c1-8a3006ed2fd8</webElementGuid>
+      <value>//div[2]/div/input[2]</value>
+      <webElementGuid>4da8cf3b-4349-4406-8245-50a686a1a80a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = '_UserName' and @id = '_UserName']</value>
-      <webElementGuid>ee04d0d7-9ab6-40e9-b578-83b8b3bceb96</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'cari_nama' and @name = 'cari_nama']</value>
+      <webElementGuid>6bb2a244-1ac3-4437-b6b5-81f93fffa54d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -21,13 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://his.sismedika.online/awalbros/hisv2/login.php')
 
-WebUI.setText(findTestObject('Page_Login HOS SISMEDIKA v2/input_Login__UserName'), 'fadhil')
+WebUI.setText(findTestObject('Login Halam Depan/input_Login__UserName'), 'fadhil')
 
-WebUI.setText(findTestObject('Page_Login HOS SISMEDIKA v2/input_Login__Password'), '123456')
+WebUI.setText(findTestObject('Login Halam Depan/input_Login__Password'), '123456')
 
-WebUI.click(findTestObject('Page_Login HOS SISMEDIKA v2/button_Login'))
-
-WebUI.verifyElementNotVisible(findTestObject('Page_Login HOS SISMEDIKA v2/div_Login gagal. Kombinasi Username  Password salah'))
+WebUI.click(findTestObject('Login Halam Depan/button_Login'))
 
 WebUI.closeBrowser()
 

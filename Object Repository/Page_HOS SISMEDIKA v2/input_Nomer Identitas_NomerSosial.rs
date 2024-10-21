@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Login__UserName</name>
+   <name>input_Nomer Identitas_NomerSosial</name>
    <tag></tag>
-   <elementGuidId>f624f825-0a81-43d8-b0af-df873b59be59</elementGuidId>
+   <elementGuidId>606068c6-7a00-43ac-b5d5-1764f20350fa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='_UserName']</value>
+         <value>//input[@id='NomerSosial']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#_UserName</value>
+         <value>#NomerSosial</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[id=&quot;_UserName&quot;]</value>
+         <value>internal:label=&quot;Rekam Medis&quot;s >> #NomerSosial</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c0466ffa-b075-4b22-af84-e65e1ba000ac</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>input100</value>
-      <webElementGuid>398e2beb-b30a-46fc-91a6-ee85971b40bb</webElementGuid>
+      <webElementGuid>465d064f-5b40-421e-ac44-c8fbcd0cc8bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,62 +37,78 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0c14d36a-2ed3-49fe-891a-4957afefab88</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>_UserName</value>
-      <webElementGuid>8581e2b4-6716-44b0-8b0f-4b7474a6f7dd</webElementGuid>
+      <webElementGuid>88b33733-da46-4d51-a98c-5e32c28c95c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>_UserName</value>
-      <webElementGuid>602df8c9-0367-495f-99fe-a902daed656e</webElementGuid>
+      <value>NomerSosial</value>
+      <webElementGuid>f21b4c02-b409-4428-8a75-7cd8e1d2fea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>NomerSosial</value>
+      <webElementGuid>b38fb536-e75b-4afa-a9df-70087a8d990d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>periksavalidasinik(this,'JenisNomerSosial','_frm_mr_baru')</value>
+      <webElementGuid>a6f45eb2-5026-4648-9237-a9c031bbca1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>3ac503b5-6633-4356-a9c1-7404a4979c06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;_UserName&quot;)</value>
-      <webElementGuid>da8e1139-d57b-451a-bf03-c04ae8a2ad47</webElementGuid>
+      <value>id(&quot;_frm_mr_baru&quot;)/table[@class=&quot;tabel&quot;]/tbody[1]/tr[15]/td[2]/input[@id=&quot;NomerSosial&quot;]</value>
+      <webElementGuid>d952e94a-1444-4978-bc80-4aeef14447d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='_UserName']</value>
-      <webElementGuid>9f8e4527-b4b3-4951-b586-96f11312be20</webElementGuid>
+      <value>//input[@id='NomerSosial']</value>
+      <webElementGuid>de4b5e7f-a83f-4977-931f-5cf936cb4bf4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frm_login']/div/input</value>
-      <webElementGuid>6f915ab1-d62f-4773-8e1e-5682491e5b90</webElementGuid>
+      <value>//form[@id='_frm_mr_baru']/table/tbody/tr[15]/td[2]/input</value>
+      <webElementGuid>e30f33f5-29a1-425a-b5fb-62e66b871db2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>b096042b-51bf-4b31-83c1-8a3006ed2fd8</webElementGuid>
+      <value>//div[2]/form/table/tbody/tr[15]/td[2]/input</value>
+      <webElementGuid>58dc6ac6-b795-497b-9a41-4d4c8b736a44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = '_UserName' and @id = '_UserName']</value>
-      <webElementGuid>ee04d0d7-9ab6-40e9-b578-83b8b3bceb96</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'NomerSosial' and @name = 'NomerSosial']</value>
+      <webElementGuid>65cc095c-7ade-4051-9fec-ee3235e6bf3d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

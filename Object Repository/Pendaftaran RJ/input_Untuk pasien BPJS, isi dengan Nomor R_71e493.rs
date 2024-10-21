@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Login__UserName</name>
+   <name>input_Untuk pasien BPJS, isi dengan Nomor R_71e493</name>
    <tag></tag>
-   <elementGuidId>f624f825-0a81-43d8-b0af-df873b59be59</elementGuidId>
+   <elementGuidId>a1c22629-8272-4db1-b597-7cce808d67d6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='_UserName']</value>
+         <key>CSS</key>
+         <value>#InputJKNNoRujukan</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#_UserName</value>
+         <key>XPATH</key>
+         <value>//input[@id='InputJKNNoRujukan']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[id=&quot;_UserName&quot;]</value>
+         <value>#InputJKNNoRujukan</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c0466ffa-b075-4b22-af84-e65e1ba000ac</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>input100</value>
-      <webElementGuid>398e2beb-b30a-46fc-91a6-ee85971b40bb</webElementGuid>
+      <webElementGuid>9ab1b8a7-50e8-48c9-9b3e-83a7b5cce67f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,62 +37,70 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0c14d36a-2ed3-49fe-891a-4957afefab88</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>_UserName</value>
-      <webElementGuid>8581e2b4-6716-44b0-8b0f-4b7474a6f7dd</webElementGuid>
+      <webElementGuid>5b215ce0-918d-4138-9e2d-ea76b1dc6eed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>_UserName</value>
-      <webElementGuid>602df8c9-0367-495f-99fe-a902daed656e</webElementGuid>
+      <value>InputJKNNoRujukan</value>
+      <webElementGuid>c3d726f9-03ea-4492-ac92-5cc7573a3231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>JKNNoRujukan</value>
+      <webElementGuid>19a4c8c7-4fb7-4c56-bb57-2adbc41316d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>44adc5c7-3ccc-44aa-926e-eed7216abac9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;_UserName&quot;)</value>
-      <webElementGuid>da8e1139-d57b-451a-bf03-c04ae8a2ad47</webElementGuid>
+      <value>id(&quot;InputJKNNoRujukan&quot;)</value>
+      <webElementGuid>489fdf2d-bcb2-478a-93e0-6809661cb1eb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='_UserName']</value>
-      <webElementGuid>9f8e4527-b4b3-4951-b586-96f11312be20</webElementGuid>
+      <value>//input[@id='InputJKNNoRujukan']</value>
+      <webElementGuid>c3bad7aa-5d68-4e58-8fb2-614d93a4a3ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frm_login']/div/input</value>
-      <webElementGuid>6f915ab1-d62f-4773-8e1e-5682491e5b90</webElementGuid>
+      <value>//tr[@id='_tr_JenisPasien']/td[2]/table/tbody/tr[10]/td[2]/input</value>
+      <webElementGuid>76d26276-6bbe-4427-b16b-fd7cba3063ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>b096042b-51bf-4b31-83c1-8a3006ed2fd8</webElementGuid>
+      <value>//tr[10]/td[2]/input</value>
+      <webElementGuid>023f61f1-4205-4043-b24a-30c0ada5c580</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = '_UserName' and @id = '_UserName']</value>
-      <webElementGuid>ee04d0d7-9ab6-40e9-b578-83b8b3bceb96</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'InputJKNNoRujukan' and @name = 'JKNNoRujukan']</value>
+      <webElementGuid>666aeaa1-b050-478a-9ed7-ada9570f63bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

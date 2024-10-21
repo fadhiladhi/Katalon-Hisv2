@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>select_Rujukan FKTP          Rujukan Intern_3184d7</name>
    <tag></tag>
-   <elementGuidId>54e1ad8a-6734-487c-999e-1c44cfc497e0</elementGuidId>
+   <elementGuidId>a7ec0588-7e75-43e7-a624-61db2748acce</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='sub2']</value>
+         <key>CSS</key>
+         <value>#InputJKNJenisKunjungan</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#sub2</value>
+         <key>XPATH</key>
+         <value>//select[@id='InputJKNJenisKunjungan']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Login&quot;i]</value>
+         <value>#InputJKNJenisKunjungan</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,32 +28,24 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>1cfb66cd-49a6-41be-bda8-e8f33c4099fb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>login100-form-btn</value>
-      <webElementGuid>f2524d1e-0c85-4171-9911-264ece51b7cd</webElementGuid>
+      <value>select</value>
+      <webElementGuid>019e2589-765c-4114-85fb-1d003d87d54e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>sub2</value>
-      <webElementGuid>6435f347-ef1e-496c-9840-b7c4b28b2386</webElementGuid>
+      <value>InputJKNJenisKunjungan</value>
+      <webElementGuid>0e04f1bc-77b0-4a34-aac9-568911520bcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>name</name>
       <type>Main</type>
-      <value>fn_login()</value>
-      <webElementGuid>6017f57a-8ffc-4cea-b3e8-29f8747370d2</webElementGuid>
+      <value>JKNJenisKunjungan</value>
+      <webElementGuid>62289b17-bfde-4359-8c81-33ebd10adbf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,76 +53,88 @@
       <name>text</name>
       <type>Main</type>
       <value>
-								Login
-							</value>
-      <webElementGuid>824d3a34-ca8f-455a-9bcc-c991d9181873</webElementGuid>
+          
+          Rujukan FKTP
+          Rujukan Internal
+          Kontrol
+          Rujukan Antar RS
+        </value>
+      <webElementGuid>0c100e6b-caff-46cc-9db3-3722104342d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sub2&quot;)</value>
-      <webElementGuid>4ab2a16a-d3e9-497b-a32b-a1940c662dcd</webElementGuid>
+      <value>id(&quot;InputJKNJenisKunjungan&quot;)</value>
+      <webElementGuid>053e8cef-ac47-4d61-8cfe-9154c34070c3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='sub2']</value>
-      <webElementGuid>3bda29c0-c1f8-4eae-9131-f7744375dc55</webElementGuid>
+      <value>//select[@id='InputJKNJenisKunjungan']</value>
+      <webElementGuid>349e10d4-f1c9-4803-8fe2-4a5d789712ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frm_login']/div[3]/div/button</value>
-      <webElementGuid>d7b3bc22-8b18-4761-847d-e975393286ae</webElementGuid>
+      <value>//tr[@id='_tr_JenisPasien']/td[2]/table/tbody/tr[9]/td[2]/select</value>
+      <webElementGuid>e1b6e9b1-384d-4914-be33-ff97ad5f5949</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/preceding::button[1]</value>
-      <webElementGuid>7f4b0514-6b3b-4fca-b594-95adc5cf24ce</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kunjungan:'])[1]/following::select[1]</value>
+      <webElementGuid>6ead742c-d35d-4ce0-9126-b99225e9ab86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perhatian!'])[1]/preceding::button[1]</value>
-      <webElementGuid>0bf98adf-a358-4e71-874e-ef5c9611a16e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Referensi:'])[1]/preceding::select[1]</value>
+      <webElementGuid>9d2e3feb-ada4-4349-8b96-b393176a8933</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>faab19f7-1253-4dea-8778-74d0c901bb1a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='» Untuk pasien BPJS, isi dengan Nomor Rujukan'])[1]/preceding::select[1]</value>
+      <webElementGuid>57c8353b-b0c0-4ba4-93d0-417261f6ab22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>5e3efbca-9dd5-4693-a167-4fe31a767947</webElementGuid>
+      <value>//td[2]/table/tbody/tr[9]/td[2]/select</value>
+      <webElementGuid>25862d44-4d1d-44a9-b522-19ffd687eef8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'sub2' and (text() = '
-								Login
-							' or . = '
-								Login
-							')]</value>
-      <webElementGuid>4456bf53-954b-4e88-b6c7-b859abdf50da</webElementGuid>
+      <value>//select[@id = 'InputJKNJenisKunjungan' and @name = 'JKNJenisKunjungan' and (text() = '
+          
+          Rujukan FKTP
+          Rujukan Internal
+          Kontrol
+          Rujukan Antar RS
+        ' or . = '
+          
+          Rujukan FKTP
+          Rujukan Internal
+          Kontrol
+          Rujukan Antar RS
+        ')]</value>
+      <webElementGuid>75b27c09-a3a5-4157-aff2-d5197021fd93</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

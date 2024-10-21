@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>a_Pendaftaran RJ v2</name>
    <tag></tag>
-   <elementGuidId>54e1ad8a-6734-487c-999e-1c44cfc497e0</elementGuidId>
+   <elementGuidId>5a8f847b-8ae2-483b-a71e-996cb21663fd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='sub2']</value>
+         <value>//a[@onclick=&quot;isikan('pendaftaran_rj/index.php?mid=282&amp;')&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#sub2</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Login&quot;i]</value>
+         <value>internal:role=link[name=&quot;Pendaftaran RJ v2&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,109 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>1cfb66cd-49a6-41be-bda8-e8f33c4099fb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>login100-form-btn</value>
-      <webElementGuid>f2524d1e-0c85-4171-9911-264ece51b7cd</webElementGuid>
+      <value>a</value>
+      <webElementGuid>79d2d396-215d-4d54-81ed-ce3336bd9afe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>href</name>
       <type>Main</type>
-      <value>sub2</value>
-      <webElementGuid>6435f347-ef1e-496c-9840-b7c4b28b2386</webElementGuid>
+      <value>#</value>
+      <webElementGuid>8bdd0a1b-99bd-4620-ab52-9b2223bd42ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>fn_login()</value>
-      <webElementGuid>6017f57a-8ffc-4cea-b3e8-29f8747370d2</webElementGuid>
+      <value>isikan('pendaftaran_rj/index.php?mid=282&amp;')</value>
+      <webElementGuid>1b681d09-761a-4460-98c7-026c5ba23e16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-								Login
-							</value>
-      <webElementGuid>824d3a34-ca8f-455a-9bcc-c991d9181873</webElementGuid>
+      <value>Pendaftaran RJ v2</value>
+      <webElementGuid>69b02c73-6c2d-475d-b072-bb47b9846e6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sub2&quot;)</value>
-      <webElementGuid>4ab2a16a-d3e9-497b-a32b-a1940c662dcd</webElementGuid>
+      <value>/html[1]/body[1]/div[@id=&quot;cssmenu&quot;]/ul[1]/li[@class=&quot;has-sub&quot;]/ul[1]/li[@class=&quot;last&quot;]/a[1]</value>
+      <webElementGuid>0e899113-07ec-46c6-a771-c1d8a10d473b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='sub2']</value>
-      <webElementGuid>3bda29c0-c1f8-4eae-9131-f7744375dc55</webElementGuid>
+      <value>//a[@onclick=&quot;isikan('pendaftaran_rj/index.php?mid=282&amp;')&quot;]</value>
+      <webElementGuid>16d2ac5d-20d4-4b5f-9e20-a19531f12898</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frm_login']/div[3]/div/button</value>
-      <webElementGuid>d7b3bc22-8b18-4761-847d-e975393286ae</webElementGuid>
+      <value>//div[@id='cssmenu']/ul/li[17]/ul/li/a</value>
+      <webElementGuid>66ed24b4-4567-427a-91da-656b96712715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pendaftaran RJ v2')]</value>
+      <webElementGuid>b1ac0610-f9ed-4e15-9554-c63e953629d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/preceding::button[1]</value>
-      <webElementGuid>7f4b0514-6b3b-4fca-b594-95adc5cf24ce</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[271]</value>
+      <webElementGuid>8bbaea27-f703-4e9a-b982-af1eba44729b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perhatian!'])[1]/preceding::button[1]</value>
-      <webElementGuid>0bf98adf-a358-4e71-874e-ef5c9611a16e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⇅'])[1]/preceding::a[272]</value>
+      <webElementGuid>0e01d331-950d-4722-b552-21b5beed23e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>faab19f7-1253-4dea-8778-74d0c901bb1a</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Pendaftaran RJ v2']/parent::*</value>
+      <webElementGuid>3ee69d31-b4ea-4b5c-add5-18dc85d8a0a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[180]</value>
+      <webElementGuid>0e3b81fe-2699-4473-aa87-cb1156f35684</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>5e3efbca-9dd5-4693-a167-4fe31a767947</webElementGuid>
+      <value>//li[17]/ul/li/a</value>
+      <webElementGuid>05bc5693-617e-4ca2-bec2-88a02dcc95f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'sub2' and (text() = '
-								Login
-							' or . = '
-								Login
-							')]</value>
-      <webElementGuid>4456bf53-954b-4e88-b6c7-b859abdf50da</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'Pendaftaran RJ v2' or . = 'Pendaftaran RJ v2')]</value>
+      <webElementGuid>b7f521aa-9cff-4be1-a86d-bd34920f5bcf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

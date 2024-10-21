@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>span_Simpan</name>
    <tag></tag>
-   <elementGuidId>54e1ad8a-6734-487c-999e-1c44cfc497e0</elementGuidId>
+   <elementGuidId>32dbaed2-8624-44fd-811f-a9974a54eaec</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='sub2']</value>
+         <value>//button[@id='btn_simpan_mr']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#sub2</value>
+         <value>#btn_simpan_mr > span.ui-button-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Login&quot;i]</value>
+         <value>internal:label=&quot;Rekam Medis&quot;s >> internal:role=button[name=&quot;Simpan&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,109 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>1cfb66cd-49a6-41be-bda8-e8f33c4099fb</webElementGuid>
+      <value>span</value>
+      <webElementGuid>51ef748e-8e7b-4a54-bd26-07717dd29397</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>login100-form-btn</value>
-      <webElementGuid>f2524d1e-0c85-4171-9911-264ece51b7cd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>sub2</value>
-      <webElementGuid>6435f347-ef1e-496c-9840-b7c4b28b2386</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>fn_login()</value>
-      <webElementGuid>6017f57a-8ffc-4cea-b3e8-29f8747370d2</webElementGuid>
+      <value>ui-button-text</value>
+      <webElementGuid>60cc94d9-f7db-494a-a1d8-04b526d8c181</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-								Login
-							</value>
-      <webElementGuid>824d3a34-ca8f-455a-9bcc-c991d9181873</webElementGuid>
+      <value>Simpan</value>
+      <webElementGuid>24d70a01-f3d2-44c6-91e8-1f467ca4d417</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sub2&quot;)</value>
-      <webElementGuid>4ab2a16a-d3e9-497b-a32b-a1940c662dcd</webElementGuid>
+      <value>id(&quot;btn_simpan_mr&quot;)/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>0d0152de-b02c-46f8-80ab-7ab189d540e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='sub2']</value>
-      <webElementGuid>3bda29c0-c1f8-4eae-9131-f7744375dc55</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frm_login']/div[3]/div/button</value>
-      <webElementGuid>d7b3bc22-8b18-4761-847d-e975393286ae</webElementGuid>
+      <value>//button[@id='btn_simpan_mr']/span</value>
+      <webElementGuid>ac1aeb55-7779-4c76-8f70-b7a02277f71c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/preceding::button[1]</value>
-      <webElementGuid>7f4b0514-6b3b-4fca-b594-95adc5cf24ce</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IHS ID:'])[1]/following::span[3]</value>
+      <webElementGuid>19202536-d42e-467e-afd0-b5520ede6817</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perhatian!'])[1]/preceding::button[1]</value>
-      <webElementGuid>0bf98adf-a358-4e71-874e-ef5c9611a16e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='• harus diisi'])[20]/following::span[3]</value>
+      <webElementGuid>06e670d6-0cae-4a19-bae5-d33db5409c73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>faab19f7-1253-4dea-8778-74d0c901bb1a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::span[1]</value>
+      <webElementGuid>e22e0a9e-aae1-4f62-8995-7e4792d0638a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create IHS ID'])[1]/preceding::span[2]</value>
+      <webElementGuid>baac46c9-dfbb-45fd-b27f-5791cf36ef4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>5e3efbca-9dd5-4693-a167-4fe31a767947</webElementGuid>
+      <value>//div[13]/div[11]/div/button/span</value>
+      <webElementGuid>6dd74961-4bc8-43e4-aba0-2dbdb231b187</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'sub2' and (text() = '
-								Login
-							' or . = '
-								Login
-							')]</value>
-      <webElementGuid>4456bf53-954b-4e88-b6c7-b859abdf50da</webElementGuid>
+      <value>//span[(text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>cf5c6104-45c7-4ebe-ba99-ac80ae802049</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_04012024 094819</name>
+   <tag></tag>
+   <elementGuidId>1b992126-9e16-4b38-b1d8-c5323118d2e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>table.pengajuan > tbody > tr:nth-of-type(3) > td:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@onclick=&quot;ambil_logshift('511775','47412','KSRRJ','PAGI')&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;04/01/2024 09:48:19&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>92f90d0d-dea9-48dd-a317-d30427a5bb98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>ambil_logshift('511775','47412','KSRRJ','PAGI')</value>
+      <webElementGuid>c5a1cae3-c60a-4c35-8547-be9e00cda10e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>04/01/2024 09:48:19</value>
+      <webElementGuid>d6eeb85b-2a79-46e0-9f06-359995ca7f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;detail_logshift&quot;)/table[@class=&quot;pengajuan&quot;]/tbody[1]/tr[3]/td[2]</value>
+      <webElementGuid>bc34a366-ebfc-4063-8656-833493a05e8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@onclick=&quot;ambil_logshift('511775','47412','KSRRJ','PAGI')&quot;]</value>
+      <webElementGuid>9acb5901-0171-4214-be30-bb051149565f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detail_logshift']/table/tbody/tr[3]/td[2]</value>
+      <webElementGuid>6d824480-4b77-4295-99f8-5923982bb829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGI'])[1]/following::td[2]</value>
+      <webElementGuid>1ceb70d0-8539-44da-babd-203a20bc128f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KSRRJ'])[1]/following::td[3]</value>
+      <webElementGuid>394d0785-a853-462f-86ee-c2a2fc626748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KSRRJ'])[2]/preceding::td[1]</value>
+      <webElementGuid>c8175fad-88db-4410-9591-427f74f64326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGI'])[2]/preceding::td[2]</value>
+      <webElementGuid>9e93a39e-edd4-4ab2-ac93-961c490f9646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='04/01/2024 09:48:19']/parent::*</value>
+      <webElementGuid>c8c243bf-b752-4d48-a651-687bea3baa2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[2]/div/table/tbody/tr[3]/td[2]</value>
+      <webElementGuid>6d8d348a-0bf2-4412-88ef-b1a3387e1d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '04/01/2024 09:48:19' or . = '04/01/2024 09:48:19')]</value>
+      <webElementGuid>9747051a-5b01-48f0-9a61-03812b8e1e2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

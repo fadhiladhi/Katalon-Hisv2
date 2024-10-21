@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Pendaftaran RJ</name>
+   <name>Membuat Rekam Medis Pasien</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ee706a1e-3542-43dc-b9b9-43dafc530266</testCaseGuid>
+   <testCaseGuid>fc308599-340a-4834-8693-6a637c84cceb</testCaseGuid>
 </TestCaseEntity>

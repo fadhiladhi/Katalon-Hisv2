@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://his.sismedika.online/awalbros/hisv2/login.php')
 
-WebUI.setText(findTestObject('Object Repository/Page_Login HOS SISMEDIKA v2/input_Login__UserName'), 'fadhil')
+WebUI.setText(findTestObject('Object Repository/Login Halam Depan/input_Login__UserName'), 'fadhil')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login HOS SISMEDIKA v2/input_Login__Password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Login Halam Depan/input_Login__Password'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/Page_Login HOS SISMEDIKA v2/button_Login'))
+WebUI.click(findTestObject('Object Repository/Login Halam Depan/button_Login'))
 
 WebUI.openBrowser('')
 
